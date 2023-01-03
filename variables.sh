@@ -8,4 +8,7 @@ name=RaviTeja
 echo My Name Is $name
 echo i am ${name}
 
+date=$(date)
+echo today date is $date
+
 echo today date is $(date)
