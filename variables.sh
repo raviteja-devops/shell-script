@@ -8,4 +8,4 @@ name=RaviTeja
 echo My Name Is $name
 echo i am ${name}
 
-echo today date is var=$(date)
+echo today date is $(date)
