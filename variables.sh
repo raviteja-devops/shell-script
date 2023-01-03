@@ -13,7 +13,7 @@ echo today date is $date
 
 echo today date is $(date)
 
-a=
-b=
+a=1234
+b=4321
 add=$((a+b))
 echo sum is $add
